@@ -1,26 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hola,%20soy%20Daniel%20👋&fontSize=70&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=25&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn&desc=Full%20Stack%20Developer%20·%20PHP%20%26%20Laravel&descSize=22&descAlignY=75&descColor=1B2A47" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boriscr&label=PERFIL+VISTO&color=0078d4&style=for-the-badge" alt="boriscr" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=boriscr.boriscr&left_color=1B2A47&right_color=BA4B41&left_text=PROFILE%20VIEWS" alt="boriscr" />
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=El%20código%20es%20como%20el%20humor.%20Cuando%20tienes%20que%20explicarlo,%20es%20malo.&author=Cory%20House" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote" />
 </p>
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About Me
+Full Stack Developer with experience in **PHP and Laravel**, building robust web applications and custom solutions. Background in web development, always learning about software architecture and optimization.
 
-- 🌱 Aprendiendo constantemente sobre **Arquitectura de Software y Optimización**
-- 💬 Pregúntame sobre **PHP, Laravel y Desarrollo Web**
-- ⚡ Resolviendo problemas complejos con soluciones simples.
+- 🌱 Currently learning about **Software Architecture and Optimization**
+- 💬 Ask me about **PHP, Laravel and Web Development**
+- ⚡ Solving complex problems with simple solutions
+- 🏀 Fun fact: after 20 years playing basketball, I just realized I'm no longer an explosive player 😅
 
 ---
 
-### 🛠 Tecnologías y Herramientas
-
-Herramientas que utilizo para dar vida a mis ideas:
+### 🛠 Tech Stack & Tools
+Tools I use to bring my ideas to life:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,27 +31,20 @@ Herramientas que utilizo para dar vida a mis ideas:
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=boriscr&show_icons=true&theme=visual_studio_code&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boriscr&layout=compact&theme=visual_studio_code&border_radius=10" />
-</p>
+### 🚧 Currently Working On
+**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project: a scouting tool to spot undervalued NCAA talent before it signs a big NBA contract. Currently in the data extraction & cleaning phase, combining a prepared NBA box-score dataset with my own scraping of NCAA player stats.
 
 ---
 
-### 🤝 Conectemos
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kredensir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boris" height="30" width="40" /></a>
   <a href="https://facebook.com/robin.boris.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Boris" height="30" width="40" /></a>
   <a href="https://instagram.com/boris_kredensir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Boris" height="30" width="40" /></a>
-   <a href="https://github.com/boriscr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Boris" height="30" width="40" /></a>
+  <a href="https://github.com/boriscr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Boris" height="30" width="40" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=100&section=footer" />
 </p>
------
-Credits: [boriscr](https://github.com/boriscr)
-
-Last Edited on: 06/01/2025
