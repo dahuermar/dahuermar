@@ -1,12 +1,15 @@
-<p align="center">
+<!-- Banner full width -->
+<p align="center" style="margin-bottom: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Circular profile photo overlapping the banner on the right -->
-<p align="right" style="margin-top: -110px; margin-right: 40px; margin-bottom: 30px;">
+<!-- Circular photo overlapping on the far right -->
+<p align="right" style="margin-top: -105px; margin-right: 35px; margin-bottom: 25px;">
   <img src="./assets/profile.png" 
-       width="160" 
-       style="border-radius: 50%; border: 5px solid #1B2A47; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" 
+       width="155" 
+       style="border-radius: 50%; 
+              border: 5px solid #1B2A47; 
+              box-shadow: 0 6px 18px rgba(0,0,0,0.35);" 
        alt="Daniel Huerta" />
 </p>
 
@@ -18,15 +21,17 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Curious%20by%20nature,%20data-driven%20by%20choice.&author=" alt="Quote" />
 </p>
 
-### 👨‍💻 About Me
+### About Me
 Data & AI Analyst with +5 years of experience at the intersection of **data, technology and business processes**. I transform repetitive manual work into actionable insights and automated solutions.
 
 I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that drive measurable business impact.
 
-- 🌱 Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
-- 💬 Ask me about **Python, process automation, Power BI and organizational analytics**
-- ⚡ Turning complex operational problems into measurable, data-driven solutions
-- 🏀 Passionate about applying data and AI to basketball (scouting, player evaluation and sports analytics)
+-  Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
+-  Ask me about **Python, process automation, Power BI and organizational analytics**
+-  Turning complex operational problems into measurable, data-driven solutions
+-  Passionate about applying data and AI to basketball (scouting, player evaluation and sports analytics)
+
+Fun Fact: After 20 years of basketball, just realized I am no longer an explosive player...
 
 ---
 
