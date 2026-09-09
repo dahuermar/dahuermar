@@ -1,17 +1,18 @@
-<!-- Banner full width -->
-<p align="center" style="margin-bottom: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" width="100%" />
-</p>
-
-<!-- Circular photo overlapping on the far right -->
-<p align="right" style="margin-top: -105px; margin-right: 35px; margin-bottom: 25px;">
+<!-- Banner full width with circular photo overlay -->
+<div style="position: relative; margin-bottom: 25px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" style="width: 100%; display: block;" />
+  
+  <!-- Circular photo overlapping on top right -->
   <img src="./assets/profile.png" 
        width="155" 
-       style="border-radius: 50%; 
+       style="position: absolute; 
+              top: 95px; 
+              right: 35px; 
+              border-radius: 50%; 
               border: 5px solid #1B2A47; 
               box-shadow: 0 6px 18px rgba(0,0,0,0.35);" 
        alt="Daniel Huerta" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dahuermar.dahuermar&left_color=1B2A47&right_color=BA4B41&left_text=PROFILE%20VIEWS" alt="dahuermar" />
@@ -24,7 +25,7 @@
 ### About Me
 Data & AI Analyst with +5 years of experience at the intersection of **data, technology and business processes**. I transform repetitive manual work into actionable insights and automated solutions.
 
-I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that drive measurable business impact.
+I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that drive organizational transformation and measurable impact.
 
 -  Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
 -  Ask me about **Python, process automation, Power BI and organizational analytics**
@@ -54,7 +55,7 @@ Tools I use to turn data into impact:
 ---
 
 ### 🚧 Currently Working On
-**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued NCAA talent before it makes the jump to professional leagues.
+**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players and predict career trajectories using machine learning.
 
 ---
 
