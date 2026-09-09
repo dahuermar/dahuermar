@@ -1,18 +1,8 @@
-<!-- Banner full width with circular photo overlay on the right -->
+<!-- Banner with presentation image -->
 <div style="position: relative; margin-bottom: 0; width: 100vw; margin-left: calc(-50vw + 50%);">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=300&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn"
-       style="width: 100%; display: block;" />
-  
-  <!-- Circular photo on the right, overlapping the reddish background -->
   <img src="./assets/profile.png" 
-       width="150" 
-       style="position: absolute; 
-              top: 75px; 
-              right: 5%; 
-              border-radius: 50%; 
-              border: 5px solid #1B2A47; 
-              box-shadow: 0 6px 18px rgba(0,0,0,0.4);" 
-       alt="Daniel Huerta" />
+       style="width: 100%; display: block; height: auto;" 
+       alt="Daniel Huerta - Presentation" />
 </div>
 
 <p align="center">
@@ -50,7 +40,7 @@ Tools I use to turn data into impact:
 ---
 
 ### Currently Working On
-**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players and uncover hidden talent patterns through advanced statistical analysis.
+**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players.
 
 ---
 
