@@ -2,12 +2,8 @@
 <div style="position: relative; margin-bottom: 25px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" alt="header" />
   
-  <!-- Frase en la esquina inferior derecha del encabezado -->
-  <div style="position: absolute; bottom: 20px; right: 30px; font-size: 16px; color: #ffffff; font-weight: 500; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
-    Curious by nature, data-driven by choice
-  </div>
-  
-  <!-- Circular photo overlapping on top right -->
+   
+  <!-- Circular photo overlapping on center -->
   <img src="./assets/profile.png" 
        width="155" 
        style="position: absolute; 
