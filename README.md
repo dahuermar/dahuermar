@@ -2,6 +2,17 @@
 <div style="position: relative; margin-bottom: 30px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn"
        style="width: 100%; display: block;" />
+  
+  <!-- Circular photo on the right, overlapping the reddish background -->
+  <img src="./assets/profile.png" 
+       width="150" 
+       style="position: absolute; 
+              top: 55px; 
+              right: 45px; 
+              border-radius: 50%; 
+              border: 5px solid #1B2A47; 
+              box-shadow: 0 6px 18px rgba(0,0,0,0.4);" 
+       alt="Daniel Huerta" />
 </div>
 
 <p align="center">
@@ -10,26 +21,13 @@
 
 ### About Me
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px;">
-  <div style="flex: 1;">
-    Data & AI Analyst focused on turning manual processes into automated, data-driven solutions with **Python, Power BI, RPA and low-code**.
+Data & AI Analyst focused on turning manual processes into automated, data-driven solutions with **Python, Power BI, RPA and low-code**.
 
-    - Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
-    - Ask me about **Python, process automation and organizational analytics**
-    - Solving complex problems with simple, measurable solutions
+- Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
+- Ask me about **Python, process automation and organizational analytics**
+- Solving complex problems with simple, measurable solutions
 
-    - 🏀 Fun fact: After 20 years of basketball, I just realized I'm no longer an explosive player...
-  </div>
-  
-  <div style="flex-shrink: 0;">
-    <img src="./assets/profile.png" 
-         width="150" 
-         style="border-radius: 50%; 
-                border: 5px solid #1B2A47; 
-                box-shadow: 0 6px 18px rgba(0,0,0,0.4);" 
-         alt="Daniel Huerta" />
-  </div>
-</div>
+- 🏀 Fun fact: After 20 years of basketball, I just realized I'm no longer an explosive player...
 
 ---
 
@@ -52,7 +50,7 @@ Tools I use to turn data into impact:
 ---
 
 ### Currently Working On
-**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players and optimize team performance through data-driven insights.
+**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players and optimize athlete career strategies.
 
 ---
 
@@ -65,7 +63,7 @@ Tools I use to turn data into impact:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="mailto:dahuermart@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
