@@ -1,18 +1,17 @@
-<!-- Banner full width with circular photo overlay -->
-<div style="position: relative; margin-bottom: 25px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" style="width: 100%;" />
+<!-- Banner full width with circular photo overlay on the right -->
+<div style="position: relative; margin-bottom: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" 
+       style="width: 100%; display: block;" />
   
-   
-  <!-- Circular photo overlapping on center -->
+  <!-- Circular photo on the right, overlapping the reddish background -->
   <img src="./assets/profile.png" 
-       width="155" 
+       width="150" 
        style="position: absolute; 
-              top: 95px; 
-              left: 50%; 
-              transform: translateX(-50%);
+              top: 55px; 
+              right: 45px; 
               border-radius: 50%; 
               border: 5px solid #1B2A47; 
-              box-shadow: 0 6px 18px rgba(0,0,0,0.35);" 
+              box-shadow: 0 6px 18px rgba(0,0,0,0.4);" 
        alt="Daniel Huerta" />
 </div>
 
