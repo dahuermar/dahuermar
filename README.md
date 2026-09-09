@@ -1,6 +1,11 @@
 <!-- Banner full width with circular photo overlay -->
 <div style="position: relative; margin-bottom: 25px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" style="width: 100%; display: block;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" alt="header" />
+  
+  <!-- Frase en la esquina inferior derecha del encabezado -->
+  <div style="position: absolute; bottom: 20px; right: 30px; font-size: 16px; color: #ffffff; font-weight: 500; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+    Curious by nature, data-driven by choice
+  </div>
   
   <!-- Circular photo overlapping on top right -->
   <img src="./assets/profile.png" 
@@ -18,14 +23,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dahuermar.dahuermar&left_color=1B2A47&right_color=BA4B41&left_text=PROFILE%20VIEWS" alt="dahuermar" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Curious%20by%20nature,%20data-driven%20by%20choice.&author=" alt="Quote" />
-</p>
-
 ### About Me
 Data & AI Analyst with +5 years of experience at the intersection of **data, technology and business processes**. I transform repetitive manual work into actionable insights and automated solutions.
 
-I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that drive organizational transformation and measurable impact.
+I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that drive real business value.
 
 -  Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
 -  Ask me about **Python, process automation, Power BI and organizational analytics**
@@ -55,7 +56,7 @@ Tools I use to turn data into impact:
 ---
 
 ### 🚧 Currently Working On
-**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players and predict career trajectories using machine learning.
+**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players and optimize team rosters.
 
 ---
 
