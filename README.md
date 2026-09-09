@@ -20,20 +20,18 @@
 </p>
 
 ### About Me
-Data & AI Analyst with +5 years of experience at the intersection of **data, technology and business processes**. I transform repetitive manual work into actionable insights and automated solutions.
 
-I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that drive organizational efficiency and enable data-driven decisions.
+Data & AI Analyst focused on turning manual processes into automated, data-driven solutions with **Python, Power BI, RPA and low-code**.
 
--  Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
--  Ask me about **Python, process automation, Power BI and organizational analytics**
--  Turning complex operational problems into measurable, data-driven solutions
--  Passionate about applying data and AI to basketball (scouting, player evaluation and sports analytics)
+- Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
+- Ask me about **Python, process automation and organizational analytics**
+- Solving complex problems with simple, measurable solutions
 
-Fun Fact: After 20 years of basketball, just realized I am no longer an explosive player...
+- 🏀 Fun fact: After 20 years of basketball, I just realized I’m no longer an explosive player...
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 Tools I use to turn data into impact:
 
 <p align="center">
@@ -51,12 +49,12 @@ Tools I use to turn data into impact:
 
 ---
 
-### 🚧 Currently Working On
+### Currently Working On
 **[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players through advanced statistical analysis.
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/danielhuertamartin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -64,7 +62,7 @@ Tools I use to turn data into impact:
   <a href="https://github.com/dahuermar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="mailto:dahuermar@gmail.com" target="blank">
+  <a href="mailto:dahuermart@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
