@@ -1,16 +1,19 @@
 <!-- Banner full width with circular photo overlay on the right -->
-<div style="position: relative; margin-bottom: 30px;">
+<div style="position: relative; margin-bottom: 0; width: 100vw; margin-left: calc(-50vw + 50%);">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=300&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn"
+       style="width: 100%; display: block;" />
+  
+  <!-- Circular photo on the right, overlapping the reddish background -->
   <img src="./assets/profile.png" 
        width="150" 
        style="position: absolute; 
-              top: 55px; 
-              right: 45px; 
+              top: 75px; 
+              right: 5%; 
               border-radius: 50%; 
               border: 5px solid #1B2A47; 
-              box-shadow: 0 6px 18px rgba(0,0,0,0.4);"
-       style="width: 100%; display: block;" />
-  
- </div>
+              box-shadow: 0 6px 18px rgba(0,0,0,0.4);" 
+       alt="Daniel Huerta" />
+</div>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dahuermar.dahuermar&left_color=1B2A47&right_color=BA4B41&left_text=PROFILE%20VIEWS" alt="dahuermar" />
@@ -47,7 +50,7 @@ Tools I use to turn data into impact:
 ---
 
 ### Currently Working On
-**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players and optimize athlete career strategies.
+**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players and uncover hidden talent patterns through advanced statistical analysis.
 
 ---
 
