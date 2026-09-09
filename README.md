@@ -1,7 +1,7 @@
 <!-- Banner with presentation image -->
-<div style="position: relative; margin-bottom: 0; width: 100vw; margin-left: calc(-50vw + 50%);">
+<div style="position: relative; margin-bottom: 0; width: 100%; display: flex; justify-content: center;">
   <img src="./assets/profile.png" 
-       style="width: 100%; display: block; height: auto;" 
+       style="width: 60%; display: block; height: auto; max-width: 600px;" 
        alt="Daniel Huerta - Presentation" />
 </div>
 
@@ -40,7 +40,7 @@ Tools I use to turn data into impact:
 ---
 
 ### Currently Working On
-**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players.
+**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued p[...]
 
 ---
 
