@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" width="100%" />
+</p>
+
+<!-- Circular profile photo overlapping the banner on the right -->
+<p align="right" style="margin-top: -110px; margin-right: 40px; margin-bottom: 30px;">
+  <img src="./assets/profile.png" 
+       width="160" 
+       style="border-radius: 50%; border: 5px solid #1B2A47; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" 
+       alt="Daniel Huerta" />
 </p>
 
 <p align="center">
@@ -46,7 +54,6 @@ Tools I use to turn data into impact:
 ---
 
 ### 🤝 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/danielhuertamartin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
