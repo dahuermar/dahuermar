@@ -1,6 +1,6 @@
 <!-- Banner full width with circular photo overlay -->
 <div style="position: relative; margin-bottom: 25px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn[...]
   
    
   <!-- Circular photo overlapping on center -->
@@ -8,7 +8,8 @@
        width="155" 
        style="position: absolute; 
               top: 95px; 
-              right: 35px; 
+              left: 50%; 
+              transform: translateX(-50%);
               border-radius: 50%; 
               border: 5px solid #1B2A47; 
               box-shadow: 0 6px 18px rgba(0,0,0,0.35);" 
@@ -22,7 +23,7 @@
 ### About Me
 Data & AI Analyst with +5 years of experience at the intersection of **data, technology and business processes**. I transform repetitive manual work into actionable insights and automated solutions.
 
-I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that drive real business value.
+I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that dri[...]
 
 -  Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
 -  Ask me about **Python, process automation, Power BI and organizational analytics**
@@ -52,7 +53,7 @@ Tools I use to turn data into impact:
 ---
 
 ### 🚧 Currently Working On
-**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued players and optimize team rosters.
+**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued p[...]
 
 ---
 
