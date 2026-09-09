@@ -1,7 +1,7 @@
 <!-- Banner with presentation image -->
-<div style="width: 100%; display: flex; justify-content: center;">
+<div style="width: 100%; margin: 0; padding: 0; display: block;">
   <img src="./assets/profile.png" 
-       style="width: 100%; display: block; height: auto;" 
+       style="width: 100%; display: block; height: auto; max-width: 100%;" 
        alt="Daniel Huerta - Presentation" />
 </div>
 
