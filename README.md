@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn&desc=Data%20%26%20AI%20Analyst%20·%20Python%20%26%20Automation&descSize=22&descAlignY=75&descColor=1B2A47" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB9695,50:B6524A,100:BA4B41&height=250&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=65&fontColor=1B2A47&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 Data & AI Analyst with +5 years of experience at the intersection of **data, technology and business processes**. I transform repetitive manual work into actionable insights and automated solutions.
 
-I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that have reduced manual effort by 70–85% and saved ~80 hours per reporting cycle.
+I started in Human Resources and evolved into People Analytics, process optimization and advanced analytics. Today I design and implement solutions with **Python, Power BI, RPA and low-code** that drive measurable business impact.
 
 - 🌱 Currently deepening skills in **Machine Learning, AI, Cloud & MLOps**
 - 💬 Ask me about **Python, process automation, Power BI and organizational analytics**
@@ -41,7 +41,7 @@ Tools I use to turn data into impact:
 ---
 
 ### 🚧 Currently Working On
-**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued NCAA talent before they sign major NBA contracts. Currently in the data extraction & cleaning phase, combining NBA box-score data with custom NCAA player statistics scraping.
+**[Athlete Career Intelligence](https://github.com/dahuermar/Athlete_Career_Intelligence)** — a data portfolio project focused on sports analytics: a scouting tool designed to identify undervalued NCAA talent before it makes the jump to professional leagues.
 
 ---
 
